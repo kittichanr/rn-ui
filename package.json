@@ -12,10 +12,7 @@
     "build-storybook": "build-storybook",
     "prepare": "bob build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/petchkubb/rn-ui.git"
-  },
+  "repository": "https://github.com/petchkubb/rn-ui.git",
   "author": "Petchkubbb",
   "license": "MIT",
   "dependencies": {
