@@ -1,1 +1,1 @@
-export {MyButton} from '../stories/MyButton';
+export {MyButton} from './components/MyButton';
