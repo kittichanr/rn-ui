@@ -1,6 +1,6 @@
 {
   "name": "@petchkubbb/rn-ui",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "this package is react native component",
   "private": false,
   "scripts": {
@@ -73,8 +73,12 @@
     "source": "src",
     "output": "lib",
     "targets": [
-      ["commonjs"],
-      ["module"],
+      [
+        "commonjs"
+      ],
+      [
+        "module"
+      ],
       "typescript"
     ]
   },
