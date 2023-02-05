@@ -1,6 +1,6 @@
 module.exports = {
 	root: true,
-	extends: ['@petchkubbb/eslint-config-petchkubbb'],
+	extends: ['@kittichanr/eslint-config-kittichanr'],
 	parser: '@typescript-eslint/parser',
 	plugins: ['@typescript-eslint'],
 	rules: {

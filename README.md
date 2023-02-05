@@ -1,2 +1,2 @@
 # rn-ui
-Publish to NPM: https://www.npmjs.com/package/@petchkubbb/rn-ui
+Publish to NPM: https://www.npmjs.com/package/@kittichanr/rn-ui
