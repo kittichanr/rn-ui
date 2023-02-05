@@ -1,6 +1,6 @@
 {
   "name": "@kittichanr/rn-ui",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "this package is react native component",
   "private": false,
   "scripts": {
